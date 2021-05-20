@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static-hsoting-pavo/static/css/main.d8f5e53f.chunk.css",
+    "main.js": "/static-hsoting-pavo/static/js/main.3e2c585e.chunk.js",
+    "main.js.map": "/static-hsoting-pavo/static/js/main.3e2c585e.chunk.js.map",
+    "runtime-main.js": "/static-hsoting-pavo/static/js/runtime-main.fcea7eb2.js",
+    "runtime-main.js.map": "/static-hsoting-pavo/static/js/runtime-main.fcea7eb2.js.map",
+    "static/js/2.295043b2.chunk.js": "/static-hsoting-pavo/static/js/2.295043b2.chunk.js",
+    "static/js/2.295043b2.chunk.js.map": "/static-hsoting-pavo/static/js/2.295043b2.chunk.js.map",
+    "index.html": "/static-hsoting-pavo/index.html",
+    "precache-manifest.93733c203b691380fc0e5d7bc7faf158.js": "/static-hsoting-pavo/precache-manifest.93733c203b691380fc0e5d7bc7faf158.js",
+    "service-worker.js": "/static-hsoting-pavo/service-worker.js",
+    "static/css/main.d8f5e53f.chunk.css.map": "/static-hsoting-pavo/static/css/main.d8f5e53f.chunk.css.map",
+    "static/js/2.295043b2.chunk.js.LICENSE.txt": "/static-hsoting-pavo/static/js/2.295043b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcea7eb2.js",
+    "static/js/2.295043b2.chunk.js",
+    "static/css/main.d8f5e53f.chunk.css",
+    "static/js/main.3e2c585e.chunk.js"
+  ]
+}
